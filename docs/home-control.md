@@ -160,7 +160,7 @@
 - 近所：余りそうな物を早めに知らせて、おすそ分け・子ども食堂へ
 - 農家：町全体の需要と、気温による需要の変化を事前に知る
 
-→ くわしくは [企画書](proposal.md)・[経済学](economics.md)・[自律分散](decentralized.md)
+→ くわしくは [統合最適化](integrated-optimization.md)・[企画書](proposal.md)・[経済学](economics.md)・[自律分散](decentralized.md)
 
 ---
 

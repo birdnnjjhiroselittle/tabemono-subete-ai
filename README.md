@@ -273,6 +273,7 @@
 - [なんだっけAI](https://github.com/birdnnjjhiroselittle/nandakke-ai)：知らない言葉を、その人向けに解説する
 - どこだっけAI：モノの場所や、体重計・血圧計の表示を読み取る（健康の記録に使う）
 - [もしもしAI](https://github.com/birdnnjjhiroselittle/moshimoshi-ai)：高齢者向けのスマホに代わる端末
+- [EARTH TABLE（地球の食卓）](https://github.com/birdnnjjhiroselittle/earth-table)：地球の食べもの・健康・物流・環境をオープンワールドゲームで再現し、見つけた解決策を現実へつなぐ旗艦構想
 - [ミマモリ・キッチン](https://github.com/birdnnjjhiroselittle/mimamori-kitchen)：ARグラス・カメラ付きイヤホンで家庭の食品ロス・探し物・健康を扱う
 
 ## ライセンス
